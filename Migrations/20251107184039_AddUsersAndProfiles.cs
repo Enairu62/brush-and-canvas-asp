@@ -4,7 +4,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace brush_and_canvas.api.Migrations
+namespace BrushAndCanvas.Api.Migrations
 {
     /// <inheritdoc />
     public partial class AddUsersAndProfiles : Migration

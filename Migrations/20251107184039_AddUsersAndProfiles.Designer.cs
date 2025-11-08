@@ -9,7 +9,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace brush_and_canvas.api.Migrations
+namespace BrushAndCanvas.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20251107184039_AddUsersAndProfiles")]

@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>brush_and_canvas.api</RootNamespace>
+    <RootNamespace>BrushAndCanvas.Api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
