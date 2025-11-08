@@ -6,8 +6,10 @@ public class CustomerProfiles
 
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-    public bool Enabled { get; set; } = true;
+    public string? FirstName { get; set; }
+    public string? LastName { get; set; }
 
+    public bool Enabled { get; set; } = true;
 
     public int UserId { get; set; }
     public Users? User { get; set; }
